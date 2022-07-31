@@ -46,12 +46,9 @@ namespace anonymousIncomeComparisonProgram
             Console.WriteLine(annualSalaryPersonTwo);
 
 
-            if (annualSalaryPersonOne < annualSalaryPersonTwo)
-            {
-                Console.WriteLine("Person 1 makes more money than Person 2");
-                Console.WriteLine(false);
-            }
-
+            bool makesMore = (annualSalaryPersonOne > annualSalaryPersonTwo);
+            Console.WriteLine("Person 1 makes more money than Person 2");
+            Console.WriteLine(makesMore);
         }
     }
 }
