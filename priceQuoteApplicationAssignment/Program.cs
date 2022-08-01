@@ -47,7 +47,7 @@ namespace priceQuoteApplicationAssignment
 
            int multipliedDimensions = (convPackageHeight * convPackageWidth * convPackageLenght) * productByTheWeight;
 
-           decimal estimatedPrice = (decimal)multipliedDimensions / 100;
+           int estimatedPrice = (int)multipliedDimensions / 100;
 
            Console.WriteLine("Your estimated total for shipping this package is: " + "£" + String.Format("{0:0.00}", estimatedPrice));
            Console.WriteLine("Thank you.");
