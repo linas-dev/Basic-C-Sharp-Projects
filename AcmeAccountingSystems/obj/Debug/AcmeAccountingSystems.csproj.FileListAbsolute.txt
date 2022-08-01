@@ -4,3 +4,9 @@
 /Users/linassmita/Desktop/Basic C# Projects/AcmeAccountingSystems/bin/Debug/AcmeAccountingSystems.pdb
 /Users/linassmita/Desktop/Basic C# Projects/AcmeAccountingSystems/obj/Debug/AcmeAccountingSystems.exe
 /Users/linassmita/Desktop/Basic C# Projects/AcmeAccountingSystems/obj/Debug/AcmeAccountingSystems.pdb
+/Users/linassmita/Desktop/Basic-C-Sharp-Projects/AcmeAccountingSystems/bin/Debug/AcmeAccountingSystems.exe
+/Users/linassmita/Desktop/Basic-C-Sharp-Projects/AcmeAccountingSystems/bin/Debug/AcmeAccountingSystems.pdb
+/Users/linassmita/Desktop/Basic-C-Sharp-Projects/AcmeAccountingSystems/obj/Debug/AcmeAccountingSystems.csproj.AssemblyReference.cache
+/Users/linassmita/Desktop/Basic-C-Sharp-Projects/AcmeAccountingSystems/obj/Debug/AcmeAccountingSystems.csproj.CoreCompileInputs.cache
+/Users/linassmita/Desktop/Basic-C-Sharp-Projects/AcmeAccountingSystems/obj/Debug/AcmeAccountingSystems.exe
+/Users/linassmita/Desktop/Basic-C-Sharp-Projects/AcmeAccountingSystems/obj/Debug/AcmeAccountingSystems.pdb

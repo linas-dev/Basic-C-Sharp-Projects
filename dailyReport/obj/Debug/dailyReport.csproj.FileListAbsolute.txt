@@ -4,3 +4,9 @@
 /Users/linassmita/Desktop/Basic C# Projects/dailyReport/obj/Debug/dailyReport.csproj.CoreCompileInputs.cache
 /Users/linassmita/Desktop/Basic C# Projects/dailyReport/obj/Debug/dailyReport.exe
 /Users/linassmita/Desktop/Basic C# Projects/dailyReport/obj/Debug/dailyReport.pdb
+/Users/linassmita/Desktop/Basic-C-Sharp-Projects/dailyReport/bin/Debug/dailyReport.exe
+/Users/linassmita/Desktop/Basic-C-Sharp-Projects/dailyReport/bin/Debug/dailyReport.pdb
+/Users/linassmita/Desktop/Basic-C-Sharp-Projects/dailyReport/obj/Debug/dailyReport.csproj.AssemblyReference.cache
+/Users/linassmita/Desktop/Basic-C-Sharp-Projects/dailyReport/obj/Debug/dailyReport.csproj.CoreCompileInputs.cache
+/Users/linassmita/Desktop/Basic-C-Sharp-Projects/dailyReport/obj/Debug/dailyReport.exe
+/Users/linassmita/Desktop/Basic-C-Sharp-Projects/dailyReport/obj/Debug/dailyReport.pdb

@@ -4,3 +4,9 @@
 /Users/linassmita/Desktop/Basic C# Projects/anonymousIncomeComparisonProgram/obj/Debug/anonymousIncomeComparisonProgram.csproj.CoreCompileInputs.cache
 /Users/linassmita/Desktop/Basic C# Projects/anonymousIncomeComparisonProgram/obj/Debug/anonymousIncomeComparisonProgram.exe
 /Users/linassmita/Desktop/Basic C# Projects/anonymousIncomeComparisonProgram/obj/Debug/anonymousIncomeComparisonProgram.pdb
+/Users/linassmita/Desktop/Basic-C-Sharp-Projects/anonymousIncomeComparisonProgram/bin/Debug/anonymousIncomeComparisonProgram.exe
+/Users/linassmita/Desktop/Basic-C-Sharp-Projects/anonymousIncomeComparisonProgram/bin/Debug/anonymousIncomeComparisonProgram.pdb
+/Users/linassmita/Desktop/Basic-C-Sharp-Projects/anonymousIncomeComparisonProgram/obj/Debug/anonymousIncomeComparisonProgram.csproj.AssemblyReference.cache
+/Users/linassmita/Desktop/Basic-C-Sharp-Projects/anonymousIncomeComparisonProgram/obj/Debug/anonymousIncomeComparisonProgram.csproj.CoreCompileInputs.cache
+/Users/linassmita/Desktop/Basic-C-Sharp-Projects/anonymousIncomeComparisonProgram/obj/Debug/anonymousIncomeComparisonProgram.exe
+/Users/linassmita/Desktop/Basic-C-Sharp-Projects/anonymousIncomeComparisonProgram/obj/Debug/anonymousIncomeComparisonProgram.pdb

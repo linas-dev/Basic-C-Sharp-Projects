@@ -1,0 +1,6 @@
+/Users/linassmita/Desktop/Basic-C-Sharp-Projects/priceQuoteApplicationAssignment/bin/Debug/priceQuoteApplicationAssignment.exe
+/Users/linassmita/Desktop/Basic-C-Sharp-Projects/priceQuoteApplicationAssignment/bin/Debug/priceQuoteApplicationAssignment.pdb
+/Users/linassmita/Desktop/Basic-C-Sharp-Projects/priceQuoteApplicationAssignment/obj/Debug/priceQuoteApplicationAssignment.csproj.AssemblyReference.cache
+/Users/linassmita/Desktop/Basic-C-Sharp-Projects/priceQuoteApplicationAssignment/obj/Debug/priceQuoteApplicationAssignment.csproj.CoreCompileInputs.cache
+/Users/linassmita/Desktop/Basic-C-Sharp-Projects/priceQuoteApplicationAssignment/obj/Debug/priceQuoteApplicationAssignment.exe
+/Users/linassmita/Desktop/Basic-C-Sharp-Projects/priceQuoteApplicationAssignment/obj/Debug/priceQuoteApplicationAssignment.pdb
